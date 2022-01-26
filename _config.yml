@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nicolás Hernández"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas J. Hernandez"
+  name             : "Nicolás Hernández"
   avatar           : "foto.png"
   bio              : "IMSS Senior Research Fellow"
   location         : "University College London"
