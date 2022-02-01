@@ -14,7 +14,7 @@ Functions to represent functional objects under a Reproducing Kernel Hilbert Spa
 
 - [**bigdatadist**](https://cran.r-project.org/web/packages/bigdatadist/index.html): Distances for Machine Learning and Statistics in the Context of Big Data. Jointly created with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
 
-Functions to compute distances between probability measures or any other data object than can be posed in this way, entropy measures for samples of curves, distances and depth measures for functional data, and the Generalized Mahalanobis Kernel distance for high dimensional data. For further details about the metrics please refer to Martos et al (2014) <doi:10.3233/IDA-140706>; Martos et al (2018) <doi:10.3390/e20010033>; Hernandez et al (2018, submitted); Martos et al (2018, submitted).
+Functions to compute distances between probability measures or any other data object than can be posed in this way, entropy measures for samples of curves, distances and depth measures for functional data, and the Generalized Mahalanobis Kernel distance for high dimensional data. For further details about the metrics please refer to [Martos et al (2014)](doi:10.3233/IDA-140706); [Martos et al (2018)](doi:10.3390/e20010033) and [Hernández and Muñoz (2016)](https://link.springer.com/chapter/10.1007/978-3-319-44781-0_28).
 
 **Contributions**  
   
