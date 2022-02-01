@@ -3,10 +3,7 @@ main:
   - title: "Research"
     url: /publications/
 
-- title: "Research"
-    url: /software/
-
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/    
        
   - title: "CV"
