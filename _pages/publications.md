@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -30,7 +30,7 @@ In order to boost different classification methods, we are currently investigati
 
 Joint fine-mapping that leverages information between quantitative traits could improve accuracy and resolution over single-trait fine-mapping. Using summary statistics, flashfm (flexible and shared information fine-mapping) fine-maps signals for multiple traits, allowing for missing trait measurements and use of related individuals. In a Bayesian framework, prior model probabilities are formulated to favour model combinations that share causal variants to capitalise on information between traits. Simulation studies demonstrate that both approaches produce broadly equivalent results when traits have no shared causal variants. Jointly with [Jenn Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/)
 
-- **N Hernandez**, J Soenksen, P Newcombe, M Sandhu, I Barroso, C Wallace, JL Asimit. (2021). [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y). Nature Communications 12, 6147.
+- **N Hernández**, J Soenksen, P Newcombe, M Sandhu, I Barroso, C Wallace, JL Asimit. (2021). [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y). Nature Communications 12, 6147.
 
 
 **Outlier detection for functional data using entropy and depth measures**
@@ -41,4 +41,4 @@ This research involves the study of ordering mappings for functional data. Using
 
 - Muñoz, A.; **Hernández, N.**; Moguerza, J.M.; Martos, G. [Combining Entropy Measures for Anomaly Detection.](https://www.mdpi.com/1099-4300/20/9/698). Entropy 2018, 20, 698.
 
-- N Hernandez, A. Muñoz . (2016). [Kernel Depth Measures for Functional Data with Application to Outlier Detection](https://link.springer.com/chapter/10.1007/978-3-319-44781-0_28). Lecture Notes in Computer Science, vol 9887, pp 235-242.
+- **N Hernández**, A. Muñoz . (2016). [Kernel Depth Measures for Functional Data with Application to Outlier Detection](https://link.springer.com/chapter/10.1007/978-3-319-44781-0_28). Lecture Notes in Computer Science, vol 9887, pp 235-242.
