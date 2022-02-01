@@ -41,10 +41,6 @@ This research involves the study of ordering mappings for functional data. Using
 - N Hernandez, A. Muñoz . (2016). [Kernel Depth Measures for Functional Data with Application to Outlier Detection](https://link.springer.com/chapter/10.1007/978-3-319-44781-0_28). Lecture Notes in Computer Science, vol 9887, pp 235-242.
 
 
-
-
-
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
