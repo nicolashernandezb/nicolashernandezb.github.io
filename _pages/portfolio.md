@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Software"
+title: "R-Packages"
 permalink: /software/
 author_profile: true
 ---
-
-**R-Packages**
-
 - [**fpcb**](https://cran.r-project.org/web/packages/fpcb/index.html): Predictive Confidence Bands for Functional Time Series Forecasting. Jointly created with [Gabriel Martos](https://julienas.univ-lyon2.fr/jcugliari/).
 
 Functions to represent functional objects under a Reproducing Kernel Hilbert Space (RKHS) framework as described in Muñoz & González (2010). Autoregressive Hilbertian Model for functional time series using RKHS and predictive confidence bands construction as proposed in Hernández et al (2021).
