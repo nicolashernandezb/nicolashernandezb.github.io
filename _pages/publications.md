@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My main research is oriented to develop methods to tackle inferential problems in high-dimensional and functional data over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for staochastic processes using Information Theory tools. For a complete list of publications, see my [Google Scholar](https://scholar.google.com/citations?hl=es&user=6IZOUNkAAAAJ) profile.
+My main research is oriented to develop methods to tackle inferential problems in high-dimensional and functional data over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for staochastic processes using Information Theory tools.
 
 **Predictive confidence bands for functional time series forecasting**
 
@@ -22,6 +22,12 @@ Joint fine-mapping that leverages information between quantitative traits could 
 - **N Hernandez**, J Soenksen, P Newcombe, M Sandhu, I Barroso, C Wallace, JL Asimit. (2021). [The flashfm approach for fine-mapping multiple quantitative traits](https://www.nature.com/articles/s41467-021-26364-y). Nature Communications 12, 6147.
 
 **Domain Selection for Functional Data**
+
+In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most. This project is under development jointly with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
+
+- Domain selection to boost classification problems in functional data (in preparation).
+
+- A divergence curve for gaussian processes (in preparation).
 
 
 **Outlier detection for functional data using entropy and depth measures**
