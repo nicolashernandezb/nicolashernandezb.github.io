@@ -39,14 +39,3 @@ This research involves the study of ordering mappings for functional data. Using
 - Muñoz, A.; **Hernández, N.**; Moguerza, J.M.; Martos, G. [Combining Entropy Measures for Anomaly Detection.](https://www.mdpi.com/1099-4300/20/9/698). Entropy 2018, 20, 698.
 
 - N Hernandez, A. Muñoz . (2016). [Kernel Depth Measures for Functional Data with Application to Outlier Detection](https://link.springer.com/chapter/10.1007/978-3-319-44781-0_28). Lecture Notes in Computer Science, vol 9887, pp 235-242.
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
