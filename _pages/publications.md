@@ -14,16 +14,12 @@ I am interested in the discussion about pointwise vs simultaneous inference in t
 
 This project is under development jointly with [Jairo Cugliari](https://julienas.univ-lyon2.fr/jcugliari/) and [Julien Jacques](https://julienas.univ-lyon2.fr/jcugliari/).
 
-- [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review in the International Journal of Forecasting.
+- [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review in the Journal of Forecasting.
 
 
-**Domain Selection for Functional Data**
+**Domain Selection for Gaussian Processes Data* (work in progress)
 
 In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most. This project is under development jointly with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
-
-- Domain selection to boost classification problems in functional data (in preparation).
-
-- A divergence curve for gaussian processes (in preparation).
 
 
 **Fine mapping of genome regions to detect causal associations**
