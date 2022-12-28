@@ -14,9 +14,7 @@ The group’s activities revolve around the interaction and discussion of day-to
 
 **When and where?**
 
-We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. 
-
-**Meeting Zoom link [here](https://ucl.zoom.us/j/2121929722)**
+We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. **Meeting Zoom link [here](https://ucl.zoom.us/j/2121929722)**
 
 **$$\color{yellow}{\star} \text{NEXT TALK}$$**
 
