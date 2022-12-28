@@ -6,7 +6,10 @@ permalink: /HDFD/
 author_profile: true
 ---
 
+<p align="center">
 <img src="/files/logo_ucl.jpeg" width="400">
+</p>
+
 
 ## **Objectives**
 
