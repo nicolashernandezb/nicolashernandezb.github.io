@@ -11,15 +11,6 @@ main:
 
   - title: "Talks"
     url: /Talks/
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "HDFD"
-    url: /portfolio/
     
   - title: "CV"
     url: /files/NH_CV.pdf
-
- - title: "HDFD Group"
-    url: /HDFD/
