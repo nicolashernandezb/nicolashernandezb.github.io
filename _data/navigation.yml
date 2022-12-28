@@ -12,6 +12,9 @@ main:
   - title: "Talks"
     url: /Talks/
     
+  - title: "HDFD"
+    url: /Group/
+    
   - title: "CV"
     url: /files/NH_CV.pdf
 
