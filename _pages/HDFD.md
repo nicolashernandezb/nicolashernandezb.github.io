@@ -6,6 +6,8 @@ permalink: /HDFD/
 author_profile: true
 ---
 
+![Book logo](/files/logo_UCL.png)
+
 **Objectives**
 
 The main objective is to have an informal platform for interaction, discussion and learning about high dimensional and functional data, where we can go beyond a formal seminar series. 
