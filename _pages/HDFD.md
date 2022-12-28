@@ -10,7 +10,7 @@ author_profile: true
 
 ![](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif =250x250)
 
-<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="600">
+<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="100">
 
 ## **Objectives**
 
