@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "HDFD Group"
-permalink: /HDFD/
+title: "HDFD"
+permalink: /Group/
 author_profile: true
 ---
 
