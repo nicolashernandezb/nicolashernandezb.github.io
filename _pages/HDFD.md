@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <p align="center">
-<img src="/files/logo.png" width="500">
+<img src="/files/logo_ucl.jpeg" width="500">
 </p>
 
 
