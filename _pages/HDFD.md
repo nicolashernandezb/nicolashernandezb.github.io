@@ -8,7 +8,7 @@ author_profile: true
 
 ![UCL logo](/files/logo_ucl.jpeg)
 
-![star](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif)
+![star](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif | width=10)
 
 ## **Objectives**
 
