@@ -6,19 +6,19 @@ permalink: /HDFD/
 author_profile: true
 ---
 
-![Book logo](/files/logo_ucl.jpeg)
+![UCL logo](/files/logo_ucl.jpeg)
 
-**Objectives**
+## **Objectives**
 
 The main objective is to have an informal platform for interaction, discussion and learning about high dimensional and functional data, where we can go beyond a formal seminar series. 
 
 The group’s activities revolve around the interaction and discussion of day-to-day work of the group members; work in progress presentations; discussion and presentation of open research questions and ideas; and it operates as a reading group as well.
 
-**When and where?**
+## **When and where?**
 
 We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. **Meeting Zoom link [here](https://ucl.zoom.us/j/2121929722)**
 
-**$$\color{yellow}{\star}\ \ \text{NEXT TALK}$$**
+## **$$\color{yellow}{\star}\ \ \text{NEXT TALK}$$**
 
 9th January 2023 "Simultaneous Confidence Bandos and Causal Inference for Functional Data", [Dominik Lieb](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn.
 
