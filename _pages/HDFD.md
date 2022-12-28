@@ -8,7 +8,7 @@ author_profile: true
 
 ![UCL logo](/files/logo_ucl.jpeg)
 
-![](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif =250x250)
+<img src="/files/logo_ucl.jpeg" width="100">
 
 <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="100">
 
