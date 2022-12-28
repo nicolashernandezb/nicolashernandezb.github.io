@@ -9,5 +9,8 @@ main:
   - title: "Software"
     url: /software/
 
+  - title: "Talks"
+    url: /Talks/
+    
   - title: "CV"
     url: /files/NH_CV.pdf
