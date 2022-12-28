@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Seminar series in High Dimensional and Functional Data"
-subtitle: "A research and reading group @StatScience, UCL"
+title: "Seminar series in High Dimensional and Functional Data, @StatScience, UCL"
 permalink: /HDFD/
 author_profile: true
 ---
@@ -14,7 +13,7 @@ The group’s activities revolve around the interaction and discussion of day-to
 
 ## **When and where?**
 
-We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. **Meeting Zoom link [here](https://ucl.zoom.us/j/2121929722)**
+We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. **[Meeting Zoom link here](https://ucl.zoom.us/j/2121929722)**
 
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**
 
