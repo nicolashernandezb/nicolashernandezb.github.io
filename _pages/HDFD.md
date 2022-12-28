@@ -8,6 +8,8 @@ author_profile: true
 
 ![UCL logo](/files/logo_ucl.jpeg)
 
+![star](<iframe src="https://giphy.com/embed/C4b6GwFKbYxK8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/golden-C4b6GwFKbYxK8">via GIPHY</a></p>)
+
 ## **Objectives**
 
 The main objective is to have an informal platform for interaction, discussion and learning about high dimensional and functional data, where we can go beyond a formal seminar series. 
