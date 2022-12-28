@@ -18,7 +18,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 **Meeting Zoom link [here]{https://ucl.zoom.us/j/2121929722}**
 
-## **$$\color{yellow}{NEXT TALK}$$**
+## **$$\color{yellow}{NEXT\ TALK}$$**
 
 - 9th January 2023 "Simultaneous Confidence Bandos and Causal Inference for Functional Data", [Dominik Lieb](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn.
 
