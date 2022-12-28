@@ -8,7 +8,7 @@ author_profile: true
 
 ![UCL logo](/files/logo_ucl.jpeg)
 
-![star](<iframe src="https://giphy.com/embed/C4b6GwFKbYxK8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/golden-C4b6GwFKbYxK8">via GIPHY</a></p>)
+![star](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif)
 
 ## **Objectives**
 
