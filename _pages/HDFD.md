@@ -1,20 +1,27 @@
 ---
 layout: archive
-title: "HDFD"
+title: "Seminar series in High Dimensional and Functional Data"
+subtitle: "A research and reading group @StatScience, UCL"
 permalink: /HDFD/
 author_profile: true
 ---
-- [**fpcb**](https://cran.r-project.org/web/packages/fpcb/index.html): Predictive Confidence Bands for Functional Time Series Forecasting. Jointly created with [Gabriel Martos](https://julienas.univ-lyon2.fr/jcugliari/).
 
-Functions to represent functional objects under a Reproducing Kernel Hilbert Space (RKHS) framework as described in Muñoz & González (2010). Autoregressive Hilbertian Model for functional time series using RKHS and predictive confidence bands construction as proposed in Hernández et al (2021).
+**Group profile**
+
+The High Dimensional and Functional Data Group is a research group based in the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College London](https://www.ucl.ac.uk/). In the era of Big Data, the statistical community has been paying increasing attention to the development of new techniques and methods involving the analysis of complex data. Data expressed in high dimensions, or even infinite (as the case of functional data) are becoming more and more available due to major advances in data collection technology. 
+
+Nowadays, almost all the classical multivariate methodologies have been extended to a high dimensional or functional framework, such as: dimension reduction; semi-parametric and nonparametric regression; classification and clustering; distance and depth measures; regularization; analysis of dependent data, among others.
+
+The high dimensional and functional data umbrella involves different statistical approaches such as Bayesian Inference and Machine Learning, and it spans many fields of research: economics, finance, genetics, environment, among others.
+
+**Objectives**
+
+The main objective is to create an informal platform for interaction, discussion and learning about high dimensional and functional data, where we can go beyond a formal seminar series.
+
+The group’s activities revolve around the interaction and discussion of day-to-day work of the group members; work in progress presentations; discussion and presentation of open research questions and ideas; and it operates as a reading group as well.
+
+**When and where?**
+
+We meet on Mondays, on a fortnightly basis. The group meetings are via Zoom. If you are interested in joining, contact Nicolás Hernández. Additionally, you can subscribe to our mailing list here.
 
 
-- [**bigdatadist**](https://cran.r-project.org/web/packages/bigdatadist/index.html): Distances for Machine Learning and Statistics in the Context of Big Data. Jointly created with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
-
-Functions to compute distances between probability measures or any other data object than can be posed in this way, entropy measures for samples of curves, distances and depth measures for functional data, and the Generalized Mahalanobis Kernel distance for high dimensional data. For further details about the metrics please refer to Martos et al (2014) <doi:10.3233/IDA-140706>; Martos et al (2018) <doi:10.3390/e20010033>; Hernandez et al (2018, submitted); Martos et al (2018, submitted).
-
-**Contributions**  
-  
-- [**flashfm**](https://github.com/jennasimit/flashfm). Creator: JL Asimit.
-  
-The goal of flashfm is to use GWAS summary statistics to jointly fine-map genetic associations for several related quantitative traits in a Bayesian framework that leverages information between the traits. [Details](https://rdcu.be/czYpf). [Reference](https://www.nature.com/articles/s41467-021-26364-y).
