@@ -20,4 +20,6 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 **Previous meetings**
 
+- February, 2022 ["Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation"]([/files/NH_CV.pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2067549)), [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) 
+
 - February, 2022 ["PAC-Bayesian Computation: Learning and certification strategies for randomised classification algorithms"](/files/NH_CV.pdf), [Omar Rivasplata](https://www.homepages.ucl.ac.uk/~ucabriv/) 
