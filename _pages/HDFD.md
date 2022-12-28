@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Seminar series in High Dimensional and Functional Data"
-subtitle: "A research and reading group @StatScience, UCL"
+subtitle: "A research and reading group @StatScience, <img src="/files/logo_ucl.jpeg" width="10">"
 permalink: /HDFD/
 author_profile: true
 ---
