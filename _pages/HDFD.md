@@ -20,9 +20,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 **9th January 2023 @ 3PM (UK time) "Simultaneous Confidence Bandos and Causal Inference for Functional Data"**, [Dominik Lieb](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn. [Join here](https://ucl.zoom.us/j/2121929722).
 
-<p align="center">
-    **Abstract:** "_Inference for functional treatment effects in linear function-on-scalar regression models is examined. Inference is accomplished using simultaneous confidence bands based on adaptive critical value functions that allow inference under fairness constraints, making the results interpretable both locally and globally. To leverage existing methods in causal inference, we extend the potential outcome framework, directed acyclic graphs, and robust variance estimation to the case of functional data. Our developments are motivated by a case study in sports biomechanics, where we seek to estimate the effects of forefoot running on ankle strength from observational data._"
-</p>
+**Abstract:** "_Inference for functional treatment effects in linear function-on-scalar regression models is examined. Inference is accomplished using simultaneous confidence bands based on adaptive critical value functions that allow inference under fairness constraints, making the results interpretable both locally and globally. To leverage existing methods in causal inference, we extend the potential outcome framework, directed acyclic graphs, and robust variance estimation to the case of functional data. Our developments are motivated by a case study in sports biomechanics, where we seek to estimate the effects of forefoot running on ankle strength from observational data._"
 
 **Previous meetings**
 
