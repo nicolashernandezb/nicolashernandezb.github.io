@@ -21,9 +21,7 @@ The group’s activities revolve around the interaction and discussion of day-to
 
 We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in joining [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. **Meeting Zoom link [here](https://ucl.zoom.us/j/2121929722)**
 
-<p align="center">
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**
-</p>
 
 9th January 2023 "Simultaneous Confidence Bandos and Causal Inference for Functional Data", [Dominik Lieb](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn.
 
