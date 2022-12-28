@@ -6,7 +6,7 @@ permalink: /HDFD/
 author_profile: true
 ---
 
-![Book logo](/files/logo_UCL.png)
+![Book logo](/files/logo_ucl.jpeg)
 
 **Objectives**
 
