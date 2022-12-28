@@ -10,6 +10,8 @@ author_profile: true
 
 ![](https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif =250x250)
 
+<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="600">
+
 ## **Objectives**
 
 The main objective is to have an informal platform for interaction, discussion and learning about high dimensional and functional data, where we can go beyond a formal seminar series. 
