@@ -20,6 +20,22 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 **Previous meetings**
 
-- February, 2022 ["Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation"]([/files/NH_CV.pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2067549)), [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) 
+- 6th June, 2022 "Selecting the number of factors for Multivariate Time Seriesa", ANGELA Caro, UC3M.
 
-- February, 2022 ["PAC-Bayesian Computation: Learning and certification strategies for randomised classification algorithms"](/files/NH_CV.pdf), [Omar Rivasplata](https://www.homepages.ucl.ac.uk/~ucabriv/) 
+- 6th June, 2022 ["A unified framework for Joint Sparse Clustering and Alignment of Functional data"](https://arxiv.org/abs/1912.00687), [Valeria Vitelli](https://www.med.uio.no/imb/english/people/aca/valeriv/), University of Oslo.
+
+- 23rd May, 2022 "HD(F?)D from NIR spectroscopy", [Tom Fearn](https://www.ucl.ac.uk/statistics/people/tomfearn), UCL.
+
+- 9th May, 2022 "Wasserstein Principal Component Analysis for probability measures", [Mario Beraha](https://sites.google.com/view/marioberaha), Università di Torino.
+
+- 11th April, 2022 "Bayesian modeling and visualization of functional data", [Emmanuel Bernieri](https://www.research.ed.ac.uk/en/persons/emmanuel-bernieri), University of Edinburgh
+
+- 11th April, 2022 ["Multilevel Bayesian Quadrature"](https://arxiv.org/abs/2210.08329), Kaiyu Li, UCL
+
+- 28th March, 2022 ["Bayesian Vector Autoregressive Model via Tensor Decomposition"](https://arxiv.org/abs/2211.01727), Yiyong Luo, UCL
+
+- 14th March, 2022 ["Causal Discovery Under a Confounder Blanket"](https://proceedings.mlr.press/v180/watson22a/watson22a.pdf), [David Watson](https://www.kcl.ac.uk/people/david-watson), Kings College London
+
+- 21st February, 2022 ["Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation"]([/files/NH_CV.pdf](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2067549)), [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/), UCL
+
+- 16th February, 2022 ["PAC-Bayesian Computation: Learning and certification strategies for randomised classification algorithms"](https://discovery.ucl.ac.uk/id/eprint/10145856/2/Rivasplata_10145856_Thesis.pdf), [Omar Rivasplata](https://www.homepages.ucl.ac.uk/~ucabriv/), UCL
