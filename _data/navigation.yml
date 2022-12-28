@@ -11,7 +11,10 @@ main:
 
   - title: "Talks"
     url: /Talks/
-    
+
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "HDFD"
     url: /portfolio/
     
