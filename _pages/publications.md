@@ -17,7 +17,7 @@ This project is under development jointly with [Jairo Cugliari](https://julienas
 - [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review in the Journal of Forecasting.
 
 
-**Domain Selection for Gaussian Processes Data* (work in progress)
+**Domain Selection for Gaussian Processes Data* (work in progress)**
 
 In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most. This project is under development jointly with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
 
