@@ -27,7 +27,7 @@ _16th January 2023 @ 3PM (UK time)_ **"Simultaneous Confidence Bands and Fair Ca
 
 - 21st November, 2022 ["Debiased inference on heterogeneous quantile treatment effects with regression rank-scores"](https://arxiv.org/abs/2102.01753), [Alexander Giessing](https://stat.uw.edu/about-us/people/alexander-giessing), University of Washington.
 
-- 7th November, 2022 "’’Learning Gaussian representations for graphs and documents in a multi-objective context", [Antoine Gourru](http://antoinegourru.com/), University of Saint-Étienne.
+- 7th November, 2022 "Learning Gaussian representations for graphs and documents in a multi-objective context", [Antoine Gourru](http://antoinegourru.com/), University of Saint-Étienne.
 
 - 24th October, 2022 "Flexible nonparametric Bayesian density regression via dependent Dirichlet process mixture models and penalised splines", [Vanda Inacio](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=563), University of Edinburgh.
 
