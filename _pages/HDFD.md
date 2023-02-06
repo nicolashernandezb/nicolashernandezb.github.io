@@ -15,7 +15,9 @@ The group’s activities revolve around the interaction and discussion of day-to
 
 We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetings are via Zoom. If you are interested in participating [email me](mailto:n.hernandez@ucl.ac.uk) to join our mailing list. 
 
-## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**  23rd February, 2023. "The two-sample problem in high dimension: A ranking-based method", [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
+## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**  
+
+23rd February, 2023. *"The two-sample problem in high dimension: A ranking-based method"*, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
 
 Abstratc TBA
 
