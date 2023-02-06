@@ -19,7 +19,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 23rd February, 2023. **"The two-sample problem in high dimension: A ranking-based method"**, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
 
-Abstratc TBA
+Abstract: TBA
 
 **Previous meetings**
 
