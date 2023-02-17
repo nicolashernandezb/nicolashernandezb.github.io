@@ -19,7 +19,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 23rd February, 2023. **"[A bipartite ranking approach to the two-sample problem](https://arxiv.org/abs/2302.03592)"**, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
 
-Zoom link: [here](https://ucl.zoom.us/j/94871676260?pwd=QlE1d2ZyMTBxYUw3U2x0S1g3VUpaUT09) \
+Zoom link: [here](https://ucl.zoom.us/j/94871676260?pwd=QlE1d2ZyMTBxYUw3U2x0S1g3VUpaUT09)\
 Meeting ID: 948 7167 6260\
 Passcode: 273801
 
