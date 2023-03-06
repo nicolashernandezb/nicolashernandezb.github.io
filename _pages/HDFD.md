@@ -27,7 +27,7 @@ Passcode: 273801
 
 - 16th January, 2023. "Simultaneous Confidence Bands and Fair Causal Inference for Functional Data", [Dominik Liebl](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn.
 
-- 5th December, 2022. ["DAdditive Density-on-Scalar Regression in Bayes Hilbert Spaces with an Application to Gender Economics"](https://arxiv.org/abs/2110.11771), [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso), Humboldt-Universität zu Berlin.
+- 5th December, 2022. ["Additive Density-on-Scalar Regression in Bayes Hilbert Spaces with an Application to Gender Economics"](https://arxiv.org/abs/2110.11771), [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso), Humboldt-Universität zu Berlin.
 
 - 21st November, 2022. ["Debiased inference on heterogeneous quantile treatment effects with regression rank-scores"](https://arxiv.org/abs/2102.01753), [Alexander Giessing](https://stat.uw.edu/about-us/people/alexander-giessing), University of Washington.
 
