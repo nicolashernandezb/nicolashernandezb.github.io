@@ -17,13 +17,13 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**  
 
-23rd February, 2023. **"[A bipartite ranking approach to the two-sample problem](https://arxiv.org/abs/2302.03592)"**, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
+27th March, 2023. **"[High Dimensional Generalised Penalised Least Squares](https://arxiv.org/abs/2207.07055)"**, [Katerina Chrysikou](https://www.katerinachrysikou.com/), King's Business School, King's College London.
 
-Zoom link: [here](https://ucl.zoom.us/j/94871676260?pwd=QlE1d2ZyMTBxYUw3U2x0S1g3VUpaUT09)\
-Meeting ID: 948 7167 6260\
-Passcode: 273801
+Zoom link: [here](https://ucl.zoom.us/j/2121929722)\
 
 **Previous meetings**
+
+- 23rd February, 2023. **"[A bipartite ranking approach to the two-sample problem](https://arxiv.org/abs/2302.03592)"**, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
 
 - 16th January, 2023. "Simultaneous Confidence Bands and Fair Causal Inference for Functional Data", [Dominik Liebl](https://www.dliebl.com/) & [Tim Mensinger](https://tmensinger.com/), University of Bonn.
 
