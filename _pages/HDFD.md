@@ -17,11 +17,9 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**  
 
-27th March, 2023. **"[High Dimensional Generalised Penalised Least Squares](https://arxiv.org/abs/2207.07055)"**, [Katerina Chrysikou](https://www.katerinachrysikou.com/), King's Business School, King's College London.
-
-Zoom link: [here](https://ucl.zoom.us/j/2121929722)
-
 **Previous meetings**
+
+- 27th March, 2023. **"[High Dimensional Generalised Penalised Least Squares](https://arxiv.org/abs/2207.07055)"**, [Katerina Chrysikou](https://www.katerinachrysikou.com/), King's Business School, King's College London.
 
 - 23rd February, 2023. **"[A bipartite ranking approach to the two-sample problem](https://arxiv.org/abs/2302.03592)"**, [Myrto Limnios](https://myrtolimnios.github.io/), Copenhagen Causality Lab of the University of Copenhagen.
 
