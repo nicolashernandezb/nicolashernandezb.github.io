@@ -17,7 +17,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
 ## <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="50">  **NEXT TALK**  
 
-  - 15th May, 2023. **TBA**, [Davy Paindaveine](https://davy.paindaveine.web.ulb.be/), [ECARES](https://ecares.ulb.be/) & [Department of Mathematics](https://sciences.ulb.be/departement-mathematique), Université Libre de Bruxelles.
+  - 15th May, 2023. **Hypothesis testing on high-dimensional spheres**, [Davy Paindaveine](https://davy.paindaveine.web.ulb.be/), [ECARES](https://ecares.ulb.be/) & [Department of Mathematics](https://sciences.ulb.be/departement-mathematique), Université Libre de Bruxelles.
 
 **Previous meetings**
 
