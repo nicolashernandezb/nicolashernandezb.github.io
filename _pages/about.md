@@ -14,4 +14,11 @@ My main research is oriented to develop statisical and machine learning methods 
 
 I am a member of the [International Association of Statistical Computing (IASC)](https://iasc-isi.org/), the [Bernoulli Society](https://www.bernoullisociety.org/) and the [European Network for Business and Industrial Statistics (ENBIS)](https://enbis.org/). I am currently leading the HDFD group, a space of interaction and discussion about High-Dimesional and Functional Data. If you want to collaborate giving a talk or discussing a topic drop me an [email](mailto:n.hernandez@ucl.ac.uk).
 
+##**NEWS**  
+
+ <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25">
+ 
+ - Causal Inference and FDA session at #COMPSTAT2023, featuring speakers: [Dominik Liebl](https://www.dliebl.com/) (Bonn), [Eftychia Solea](https://scholar.google.com/citations?user=4xm-6oIAAAAJ&hl=en) (QMUL), [Kreske Ecker](https://www.umu.se/en/staff/kreske-ecker/) (UMMEA), [Edward De Brouwer](https://edwarddebrouwer.xyz/) (Yale), and [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso) (Humboldt). Don't miss out on this opportunity! Check out the details here: [link]](http://www.compstat2023.org/)
+
+
 <!--the [International Association for Statistical Computing](https://iasc-isi.org/) and-->
