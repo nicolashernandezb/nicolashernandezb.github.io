@@ -16,9 +16,7 @@ I am a member of the [International Association of Statistical Computing (IASC)]
 
 ##**NEWS**  
 
- <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25">
- 
- - Causal Inference and FDA session at #COMPSTAT2023, featuring speakers: [Dominik Liebl](https://www.dliebl.com/) (Bonn), [Eftychia Solea](https://scholar.google.com/citations?user=4xm-6oIAAAAJ&hl=en) (QMUL), [Kreske Ecker](https://www.umu.se/en/staff/kreske-ecker/) (UMMEA), [Edward De Brouwer](https://edwarddebrouwer.xyz/) (Yale), and [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso) (Humboldt). Don't miss out on this opportunity! Check out the details here: [link]](http://www.compstat2023.org/)
+ <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> Causal Inference and FDA session at #COMPSTAT2023, featuring speakers: [Dominik Liebl](https://www.dliebl.com/) (Bonn), [Eftychia Solea](https://scholar.google.com/citations?user=4xm-6oIAAAAJ&hl=en) (QMUL), [Kreske Ecker](https://www.umu.se/en/staff/kreske-ecker/) (UMMEA), [Edward De Brouwer](https://edwarddebrouwer.xyz/) (Yale), and [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso) (Humboldt). Don't miss out on this opportunity! Check out the details here: [link]](http://www.compstat2023.org/)
 
 
 <!--the [International Association for Statistical Computing](https://iasc-isi.org/) and-->
