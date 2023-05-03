@@ -19,7 +19,7 @@ We meet on Mondays 15:00 UK time (flexible) on a monthly basis. The group meetin
 
   - 15th May, 2023. **Hypothesis testing on high-dimensional spheres**, [Davy Paindaveine](https://davy.paindaveine.web.ulb.be/), [ECARES](https://ecares.ulb.be/) & [Department of Mathematics](https://sciences.ulb.be/departement-mathematique), Université Libre de Bruxelles.
 
-<p align="justified">
+<p align="justify">
 Abstract: "_Hypothesis testing in high dimensions has been a most active research topics in the last decades. In this talk, we tackle two testing problems on high-dimensional spheres, both under a symmetry assumption that specifies that the distribution at hand is invariant under rotations with respect to a given axis. More precisely, we consider the problem of testing the null hypothesis of uniformity ("detecting the signal") and the problem of testing the null hypothesis that the symmetry axis coincides with a given direction ("learning the signal direction"). We solve both problems by exploiting Le Cam's asymptotic theory of statistical experiments, in a double- or triple-asymptotic framework. Interestingly, contiguity rates depend in a subtle way on how well the parameters involved are identified as well as on a possible further antipodally-symmetric nature of the distribution. In many cases, strong optimality results are obtained from local asymptotic normality. When this cannot be achieved, it is still possible to establish minimax rate optimality._"
 </p>
 
