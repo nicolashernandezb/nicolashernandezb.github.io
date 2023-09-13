@@ -12,15 +12,14 @@ My main research is oriented to develop methods to tackle inferential problems i
 
 I am interested in the discussion about pointwise vs simultaneous inference in the context of predictions for functional time series (FTS) using Autoregressive Hilbertian models (ARH). We have addressed the problem of constructing simultaneous predictive confidence bands for a stationary FTS. The method connect the inferential statistics world with the Information Theroy field using an entropy measure for stochastic processes to construct predictive bands. We consider a Reproducing Kernel Hilbert Spaces (RKHS) to represent the functions and define the minimum entropy regions that account for a given level of probability. Joint project with [Jairo Cugliari](https://julienas.univ-lyon2.fr/jcugliari/) and [Julien Jacques](https://julienas.univ-lyon2.fr/jcugliari/).
 
-- [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review in Computational Statistics and Data Analysis.
+- [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review.
 
 
-**Domain Selection for Gaussian Processes Data* (work in progress)**
+**Domain Selection for Gaussian Processes Data**
 
 In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most. Joint Project with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
 
-- Domain Selection for Gaussian Process Data: An application to electrocardiogram signals - Under review in Statistics in Medicine.
-
+- [Domain Selection for Gaussian Process Data: An application to electrocardiogram signals](https://arxiv.org/abs/2306.00538) - Under review
 
 **Fine mapping of genome regions to detect causal associations**
 
@@ -33,7 +32,7 @@ Joint fine-mapping that leverages information between quantitative traits could 
 
 This research involves the study of ordering mappings for functional data. Using tools from the field of Information Theory and machine learning we have invesigated and developed several measures to induce an order in the functional data at hand. A natural application of these measures is the identification of atypical observations in the functional data context. 
 
-- [Density Kernel depth for outlier detection in functional data](https://www.researchsquare.com/article/rs-2535380/v1) - Preprint - Under review in the International Journal of Data Science and Analytics. 
+- **N Hernández**, A Muñoz & G Martos. [Density Kernel depth for outlier detection in functional data]([https://www.researchsquare.com/article/rs-2535380/v1](https://link.springer.com/article/10.1007/s41060-023-00420-w#:~:text=In%20this%20work%2C%20we%20propose,a%20Reproducing%20Kernel%20Hilbert%20Space.)) International Journal of Data Science and Analytics. 2023. 
 
 - Martos, G.; **Hernández, N.**; Muñoz, A.; Moguerza, J.M. [Entropy Measures for Stochastic Processes with Applications in Functional Anomaly Detection.](https://www.mdpi.com/1099-4300/20/1/33). Entropy 2018, 20, 33. https://doi.org/10.3390/e20010033
 
