@@ -7,6 +7,8 @@ author_profile: true
 
 As a Module Leader and Teacher Assistant I have taught in different degrees at undergraduate and graduate levels, being in charge of theoretical and practical sessions.
 
+- Time Series at [The London NERC DTP](https://london-nerc-dtp.org/). 
+
 - Probability and Statistics at [Statitics and Math](https://www.ucl.ac.uk/statistics/current-students/modules-statistical-science-students-other-departments/stat0005-probability-and#:~:text=Module%20description,and%20methods%20in%20statistical%20estimation.). UCL, UK. (TA)
 
 - Statistics at [MPhil in Population Health Sciences](https://www.phs.masters.cam.ac.uk/). University of Cambridge, UK. (TA)
