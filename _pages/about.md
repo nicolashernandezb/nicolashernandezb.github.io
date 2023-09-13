@@ -16,6 +16,10 @@ I am a member of the [International Association of Statistical Computing (IASC)]
 
 ## **NEWS**  
 
+ <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> PhD opportunity | [Classification and K-Sample test: still good friends in the functional context?](https://liveuclac-my.sharepoint.com/:b:/g/personal/ucaknhe_ucl_ac_uk/Ef8FDHSq4dJCifYlyx9xOVcB_1Fd4SmmxIurFkJ_GOwYkg?e=0STf9o) - Joint project with [Dr. Purvasha Chakravarti](https://purvashac.github.io/). Funding opportunities available. Get in touch if interested. 
+
+ <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> Our paper in depth mneasures + functional Data + Outlier detection has been recently publisehd at [IJDSA](https://www.springer.com/journal/41060). Check the final version here 👉 [link](https://link.springer.com/article/10.1007/s41060-023-00420-w#:~:text=In%20this%20work%2C%20we%20propose,a%20Reproducing%20Kernel%20Hilbert%20Space.)
+
  <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> Causal Inference and FDA session at #COMPSTAT2023, featuring speakers: [Dominik Liebl](https://www.dliebl.com/) (Bonn), [Eftychia Solea](https://scholar.google.com/citations?user=4xm-6oIAAAAJ&hl=en) (QMUL), [Kreske Ecker](https://www.umu.se/en/staff/kreske-ecker/) (UMMEA), [Edward De Brouwer](https://edwarddebrouwer.xyz/) (Yale), and [Sonja Greven](https://www.wiwi.hu-berlin.de/en/Professorships/vwl/statistik/team/grevenso) (Humboldt). Don't miss out on this opportunity! Check out the details here: [link]](http://www.compstat2023.org/)
 
 
