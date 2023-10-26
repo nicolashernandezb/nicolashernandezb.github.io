@@ -5,7 +5,7 @@ permalink: /Talks/
 author_profile: true
 ---
 
-- 26th October 2023. [Domain Selection for Gaussian Process Data](https://arxiv.org/abs/2306.00538) - **King's College London**, Department of Mathematics Seminar, London, UK.
+- 26th October 2023. [Domain Selection for Gaussian Process Data](https://github.com/nicolashernandezb/nicolashernandezb.github.io/blob/master/files/KCL_presentation.pdf) - **King's College London**, Department of Mathematics Seminar, London, UK.
  
 - 18th October 2023. [Domain Selection for Gaussian Process Data](https://arxiv.org/abs/2306.00538) - **Humboldt University**, Chair of Economics and Statistics Seminar, Berlin Germany.
 
