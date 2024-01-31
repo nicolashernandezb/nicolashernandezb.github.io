@@ -5,10 +5,13 @@ permalink: /Talks/
 author_profile: true
 ---
 
+- 10th April 2024. TBC - **Queen Mary University of London** School of Mathematical Sciences, London, UK.
+
+- 22nd February 2024. TBC - **University of Southampton**, School of Mathematical Sciences, UK.
+
 - 26th October 2023. [Domain Selection for Gaussian Process Data](https://github.com/nicolashernandezb/nicolashernandezb.github.io/blob/master/files/KCL_presentation.pdf) - **King's College London**, Department of Mathematics Seminar, London, UK.
  
 - 18th October 2023. [Domain Selection for Gaussian Process Data](https://arxiv.org/abs/2306.00538) - **Humboldt University**, Chair of Economics and Statistics Seminar, Berlin Germany.
-
 
 - 7th June 2023. [Domain Selection for Gaussian Process Data](https://arxiv.org/abs/2306.00538) - **I Joint Workshop on Functional Data Analysis and Nonparametric Statistics** Madrid, Spain.
 
