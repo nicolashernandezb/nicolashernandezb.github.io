@@ -9,11 +9,11 @@ As a Module Leader and Teacher Assistant I have taught in different degrees at u
 
 
 
-- Further Probability and Statistics at [Statitics and Math](https://www.ucl.ac.uk/statistics/current-students/modules-statistical-science-students-other-departments/stat0003-further-probability). UCL, UK. (TA)
+- [Further Probability and Statistics](https://www.ucl.ac.uk/statistics/current-students/modules-statistical-science-students-other-departments/stat0003-further-probability), at Statitics and Math. UCL, UK. (TA)
 
 - Time Series at [The London NERC DTP](https://london-nerc-dtp.org/). 
 
-- Probability and Statistics at [Statitics and Math](https://www.ucl.ac.uk/statistics/current-students/modules-statistical-science-students-other-departments/stat0005-probability-and#:~:text=Module%20description,and%20methods%20in%20statistical%20estimation.). UCL, UK. (TA)
+- [Probability and Statistics](https://www.ucl.ac.uk/statistics/current-students/modules-statistical-science-students-other-departments/stat0005-probability-and#:~:text=Module%20description,and%20methods%20in%20statistical%20estimation.), at Statitics and Math. UCL, UK. (TA)
 
 - Statistics at [MPhil in Population Health Sciences](https://www.phs.masters.cam.ac.uk/). University of Cambridge, UK. (TA)
 
