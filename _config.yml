@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicolás Hernández"
   avatar           : "foto.png"
-  bio              : "IMSS Senior Research Fellow"
-  location         : "University College London"
+  bio              : "Lecturer in Statistics"
+  location         : "Queen Mary University of London"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=6IZOUNkAAAAJ"
-  email            : "mailto:n.hernandez@ucl.ac.uk"
+  email            : "mailto:n.hernandez@qmul.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Nicolas-Hernandez-11"
   uri              :
   bitbucket        :
