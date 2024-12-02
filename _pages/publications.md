@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-My main research is oriented to develop methods to tackle inferential problems in high-dimensional and functional data over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for stochastic processes using Information Theory tools.
+My main research is oriented to develop methods to tackle inferential problems in high-dimensional and **functional data** over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for stochastic processes using Information Theory tools.
 
-**Bayesian inference for functional data**
+**Empowering Causal Inference with Functional Data Analysis**
 
+Functional data analysis (FDA) and causal inference can be combined to estimate the causal effects of treatments on functional outcomes, enabling insights into how interventions affect complex, function-based data. This integration is particularly valuable for time series and longitudinal studies, helping identify causal relationships and dynamic treatment effects over time or conditions. The counterfactual framework of causal inference complements FDA, allowing for the modeling of potential outcomes and optimal treatment strategies in functional settings. Together, these methods provide a robust framework for analyzing causal effects in evolving functional datasets.
 
+**Bayesian Optimisation for Functional Data**
 
-**Domain Selection for Functional Data**
+Bayesian optimization is an effective tool for functional data analysis (FDA) when optimizing objective functions involving complex, high-dimensional data represented as functions. Bayesian optimization addresses this by leveraging probabilistic surrogate models, such as Gaussian processes, to approximate the objective function and guide the search for optimal parameters. This project involves several tasks: 
+
+i) Enhance Interval PLS by introducing a Bayesian optimization-based interval selection algorithm. Using random sampling and Gaussian process regression, it improves flexibility and accuracy in identifying spectral regions, validated through simulations and real-world spectroscopy data (Joint project with Prof. Tom Fearn).
+
+ii) New approach called Functional History Matching, applied to a tsunami case to improve the forecast accuracy (Joint project with Prof. Serge Guillas and Dr. Ryuichi Kanai).
+
+**Domain Selection**
 
 In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most.
 
