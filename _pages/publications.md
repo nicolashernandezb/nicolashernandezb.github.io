@@ -7,10 +7,7 @@ author_profile: true
 
 My main research is oriented to develop methods to tackle inferential problems in high-dimensional and functional data over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for stochastic processes using Information Theory tools.
 
-**Domain Selection for Functional Data**
-
-
-**Domain Selection for Functional Data**
+**Bayesian inference for functional data**
 
 
 
