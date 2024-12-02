@@ -9,7 +9,7 @@ My main research is oriented to develop methods to tackle inferential problems i
 
 **Empowering Causal Inference with Functional Data Analysis**
 
-Functional data analysis (FDA) and causal inference can be combined to estimate the causal effects of treatments on functional outcomes, enabling insights into how interventions affect complex, function-based data. This integration is particularly valuable for time series and longitudinal studies, helping identify causal relationships and dynamic treatment effects over time or conditions. The counterfactual framework of causal inference complements FDA, allowing for the modeling of potential outcomes and optimal treatment strategies in functional settings. Together, these methods provide a robust framework for analyzing causal effects in evolving functional datasets.
+Functional data analysis and causal inference can be combined to estimate the causal effects of treatments on functional outcomes, enabling insights into how interventions affect complex, function-based data. This integration is particularly valuable for time series and longitudinal studies, helping identify causal relationships and dynamic treatment effects over time or conditions. The counterfactual framework of causal inference complements FDA, allowing for the modeling of potential outcomes and optimal treatment strategies in functional settings. Together, these methods provide a robust framework for analyzing causal effects in evolving functional datasets.
 
 **Bayesian Optimisation for Functional Data**
 
