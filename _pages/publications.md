@@ -7,20 +7,27 @@ author_profile: true
 
 My main research is oriented to develop methods to tackle inferential problems in high-dimensional and functional data over different fields such as: energy, economics, the environment, demography, business, finance, health and genetics. I have mainly focused on predictive confidence bands for functional time series; domain selection and classification in the Functional Data context; and outlier detection for stochastic processes using Information Theory tools.
 
+**Domain Selection for Functional Data**
+
+
+**Domain Selection for Functional Data**
+
+
+
+**Domain Selection for Functional Data**
+
+In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most.
+
+- **Hernández N**, Martos G. [Domain Selection for Gaussian Process Data: An Application to Electrocardiogram Signals](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70018). Biom J. **2024** Dec;66(8).
+
+- Common support function with applications. Joint project with Stanislav Nagy. (Under review).
 
 **Predictive confidence bands for functional time series forecasting**
 
 I am interested in the discussion about pointwise vs simultaneous inference in the context of predictions for functional time series (FTS) using Autoregressive Hilbertian models (ARH). We have addressed the problem of constructing simultaneous predictive confidence bands for a stationary FTS. The method connect the inferential statistics world with the Information Theroy field using an entropy measure for stochastic processes to construct predictive bands. We consider a Reproducing Kernel Hilbert Spaces (RKHS) to represent the functions and define the minimum entropy regions that account for a given level of probability. Joint project with [Jairo Cugliari](https://julienas.univ-lyon2.fr/jcugliari/) and [Julien Jacques](https://julienas.univ-lyon2.fr/jcugliari/).
 
-- [Simultaneous predictive bands for functional time series using minimum entropy sets](https://arxiv.org/abs/2105.13627) - Under review.
-
-
-**Domain Selection for Gaussian Processes Data**
-
-In order to boost different classification methods, we are currently investigating a divergence measure for functional data. This metric allows us to determine in which part of the domain two classes of functional present divergent behavior. This methodology is framed in the field of domain selection, and it is aimed: i) to solve classification problems by means of the elimination of redundant information; and ii) to estimate and characterize the uncertainty around the estimation of an inerval in the domain of the functions where two classes of processes differ the most. Joint Project with [Gabriel Martos](https://www.utdt.edu/ver_contenido.php?id_contenido=16829&id_item_menu=27715).
-
-- [Domain Selection for Gaussian Process Data: An application to electrocardiogram signals](https://arxiv.org/abs/2306.00538) - Under review
-
+- **Hernández, N.**, Cugliari, J., & Jacques, J. (2024). [Simultaneous predictive bands for functional time series using minimum entropy sets](https://www.tandfonline.com/doi/full/10.1080/03610918.2024.2391869#d1e162). Communications in Statistics - Simulation and Computation, 1–25.
+  
 **Fine mapping of genome regions to detect causal associations**
 
 Joint fine-mapping that leverages information between quantitative traits could improve accuracy and resolution over single-trait fine-mapping. Using summary statistics, flashfm (flexible and shared information fine-mapping) fine-maps signals for multiple traits, allowing for missing trait measurements and use of related individuals. In a Bayesian framework, prior model probabilities are formulated to favour model combinations that share causal variants to capitalise on information between traits. Simulation studies demonstrate that both approaches produce broadly equivalent results when traits have no shared causal variants. Jointly with [Jenn Asimit](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/a-to-g/jennifer-asimit/)
