@@ -7,7 +7,7 @@ author_profile: true
 
 **Module Leader** 
 
-- [Biostatistics and Medical Statistics](https://www.qmul.ac.uk/modules/items/mth7020p-biostatistics-and-medical-statistics.html) at [MSc in Applied Statistics and Data Science](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/applied-statistics-and-data-science-msc/). Queen Mart University of London, Spain. (2025 - )
+- [Biostatistics and Medical Statistics](https://www.qmul.ac.uk/modules/items/mth7020p-biostatistics-and-medical-statistics.html) at [MSc in Applied Statistics and Data Science](https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/applied-statistics-and-data-science-msc/). Queen Mart University of London, UK. (2025 - )
 
 - Quantitative Methods in Management at [MBA](https://www.uc3m.es/master/mba). Universidad Carlos III of Madrid, Spain. (2015 - 2021)
 
