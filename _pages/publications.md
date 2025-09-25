@@ -13,11 +13,12 @@ Functional data analysis and causal inference can be combined to estimate the ca
 
 **Bayesian Optimisation for Functional Data**
 
-Bayesian optimization is an effective tool for functional data analysis (FDA) when optimizing objective functions involving complex, high-dimensional data represented as functions. Bayesian optimization addresses this by leveraging probabilistic surrogate models, such as Gaussian processes, to approximate the objective function and guide the search for optimal parameters. This project involves several tasks: 
+Bayesian optimization is an effective tool for functional data analysis (FDA) when optimizing objective functions involving complex, high-dimensional data represented as functions. Bayesian optimization addresses this by leveraging probabilistic surrogate models, such as Gaussian processes, to approximate the objective function and guide the search for optimal parameters. This project involves several papers: 
 
-i) Enhance Interval PLS by introducing a Bayesian optimization-based interval selection algorithm. Using random sampling and Gaussian process regression, it improves flexibility and accuracy in identifying spectral regions, validated through simulations and real-world spectroscopy data (Joint project with Prof. Tom Fearn).
+i) Enhance Interval PLS by introducing a Bayesian optimization-based interval selection algorithm. Using random sampling and Gaussian process regression, it improves flexibility and accuracy in identifying spectral regions, validated through simulations and real-world spectroscopy data. [Bayesian Optimisation for Interval Selection in Pls Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389694) - To appear soon in CHEMOLAB - Joint project with Prof. Tom Fearn and Yoonsun Choi.
 
-ii) New approach called Functional History Matching, applied to a tsunami case to improve the forecast accuracy (Joint project with Prof. Serge Guillas and Dr. Ryuichi Kanai).
+ii) [History matching for functional data and its application to tsunami warnings in the Indian Ocean
+](https://arxiv.org/abs/2509.04342) - Joint project with Dr. Ryuichi Kanai, Prof. Serge Guillas and Dr. Devaraj Gopinathan) - Currently under review in JASA.
 
 **Domain Selection**
 
