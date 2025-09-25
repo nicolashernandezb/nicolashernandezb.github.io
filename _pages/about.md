@@ -16,9 +16,10 @@ I am a member of the [Institute of Mathematical Statistics (IMS)]([https://iasc-
 
 ## **NEWS**  
 
- <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> PhD opportunity: @[Centre for Probability, Statistics and Data Science](https://www.seresearch.qmul.ac.uk/cpsd/) in **[Adaptive Inference and Segmentation for Functional Time Series](https://www.findaphd.com/phds/project/adaptive-inference-and-segmentation-for-functional-time-series/?p178824)**. Funding opportunities available. Get in touch if interested. 
+  <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> New paper coming soon: [Bayesian Optimisation for Interval Selection in PLS Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5389694). To apperar in CHEMOLAB - Joint with Tom Fearn and Yoonsun Choi.
 
-  <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> New paper online: [Domain Selection for Gaussian Process Data: An Application to Electrocardiogram Signals](https://onlinelibrary.wiley.com/doi/10.1002/bimj.70018). Biometrical Journal - Joint with Gabriel Martos.
+ <img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="25"> PhD opportunity: @[Centre for Probability, Statistics and Data Science](https://www.seresearch.qmul.ac.uk/cpsd/) in **[Causal Inference with Functional Data Analysis](https://www.findaphd.com/phds/project/adaptive-inference-and-segmentation-for-functional-time-series/?p178824)**. Funding opportunities available. Get in touch if interested. 
+
 
 
 <!--the [International Association for Statistical Computing](https://iasc-isi.org/) and-->
